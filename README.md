@@ -28,7 +28,7 @@ This project is a RESTful API developed with FastAPI and Python. It manages pers
     ```
 4. Install the required packages:
     ```bash
-    pip install -r requirements.txt
+    pip install -r requirements.txt --no-cache-dir
     ```
 5. Update the database URL in `database.py` with your actual database information.
 
