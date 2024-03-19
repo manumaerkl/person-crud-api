@@ -15,11 +15,11 @@ This project is a RESTful API developed with FastAPI and Python. It manages pers
 
 1. Clone the repository:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/manumaerkl/person-crud-api.git
     ```
 2. Navigate into the project directory:
     ```bash
-    cd <project-directory>
+    cd person-crud-api
     ```
 3. Create a virtual environment and activate it:
     ```bash
@@ -39,7 +39,7 @@ Start the FastAPI server:
 ```bash
 uvicorn main:app --reload
 ```
-Now your API should be running and accessible at `http://localhost:8000`.
+Now your API should be running and be accessible at `http://localhost:8000`.
 
 ## API Endpoints
 
