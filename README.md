@@ -24,7 +24,7 @@ This project is a RESTful API developed with FastAPI and Python. It manages pers
 3. Create a virtual environment and activate it:
     ```bash
     python -m venv venv
-    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+    source venv/bin/activate  # On Windows, use venv\Scripts\activate
     ```
 4. Install the required packages:
     ```bash
